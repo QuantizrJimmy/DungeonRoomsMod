@@ -1,7 +1,8 @@
 # DungeonRoomsModWhat it does:
 This mod adds Secret Waypoints to Skyblock Dungeons, allowing for faster and easier secret finding. The hotkey to configure waypoints is "P" by default.
 
-Alternatively, you can also view images of the secret locations in the DSG Discord or with the SkyblockPersonalized Mod by pressing the hotkey "O" while in a room. Example Picture
+Alternatively, you can also view images of the secret locations in the DSG Discord or with the SkyblockPersonalized Mod by pressing the hotkey "O" while in a room.![68747470733a2f2f6879706978656c2e6e65742f6174746163686d656e74732f323438313130352f](https://user-images.githubusercontent.com/104664515/166089185-e52d502e-8fdc-44b8-b60c-32c23460f15f.png)
+
 
 Why is this useful?
 For those who haven't memorized secrets, trying to find secrets takes forever, especially when you have to spend a ton of time searching through DSG channels for the right room. This mod makes it easy as you can immediately see where a secret is.
